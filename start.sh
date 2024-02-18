@@ -1,0 +1,1 @@
+docker run --env-file .env -p 5000:5000 sql-speaker
