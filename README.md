@@ -1,13 +1,4 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -39,11 +30,11 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
+    <li><a href="#UI">User Interface</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
-
 
 
 <!-- ABOUT THE PROJECT -->
@@ -60,8 +51,6 @@ add schema
 1.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 
 <!-- GETTING STARTED -->
@@ -87,7 +76,6 @@ This app can be installed running Docker (recommended) or locally.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
 <!-- USAGE EXAMPLES -->
 ## Usage
 
@@ -105,13 +93,21 @@ The API is available on port 5000 with endpoint `/ask`. A typical request should
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+<!-- USER INTERFACE -->
+## UI
+
+A web UI is available here : [https://github.com/sayyidka/sql-speaker-chatbot](https://github.com/sayyidka/sql-speaker-chatbot)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- CONTACT -->
