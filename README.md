@@ -12,7 +12,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/sql-speaker.png" alt="Logo" width="400" height="400">
   </a>
 
   <h3 align="center">SQL Speaker</h3>
@@ -23,8 +23,6 @@
     <br />
   </p>
 </div>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -51,7 +49,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<img src="images/screenshot.png" width="500" height="500">
 
 ### Presentation
 SQL Speaker is an API that converts natural language text into SQL statements for querying a Snowflake database. The API is designed to simplify database interactions, making it accessible to users without extensive SQL knowledge (Business stakeholders, Managers). This enables quick and easy data retrieval from a database by simply describing the data request in plain English.
@@ -120,7 +118,5 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact
 
 Wadieh Karbal - [https://www.linkedin.com/in/wadieh-k-865b40181/](https://www.linkedin.com/in/wadieh-k-865b40181/)
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
