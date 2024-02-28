@@ -45,10 +45,12 @@
 ### Presentation
 SQL Speaker is an API that converts natural language text into SQL statements for querying a Snowflake database. The API is designed to simplify database interactions, making it accessible to users without extensive SQL knowledge (Business stakeholders, Managers). This enables quick and easy data retrieval from a database by simply describing the data request in plain English.
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 ### Architecture
 
-add schema
-1.
+<img src="images/schema.png" width="682" height="253">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
